@@ -15,4 +15,4 @@ Previously, I worked on accelerated MRI reconstruction and diffusion-based medic
 
 You can find my CV here: [Curriculum Vitae](/files/CV.pdf).
 
-[Email](yue.wang0908@gmail.com) / [Google Scholar]([your_google_scholar_link](https://scholar.google.com/citations?user=-pqgxXsAAAAJ&hl=zh-CN)) / [GitHub]([your_github_link](https://github.com/YuebyYue))
+[Email](yue.wang0908@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=-pqgxXsAAAAJ&hl=zh-CN) / [GitHub]([your_github_link](https://github.com/YuebyYue))

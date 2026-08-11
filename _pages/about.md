@@ -15,9 +15,11 @@ Previously, I worked on accelerated MRI reconstruction and diffusion-based medic
 
 ## News
 
-- **2026** — *Guided MRI Reconstruction via Schrödinger Bridge* was published in **IEEE Transactions on Medical Imaging**.
-- **2025** — Our work on accelerated quantitative $T_1\rho$ mapping was presented as an **Oral at ISMRM 2025**.
-- **2024** — *High-Frequency Space Diffusion Models for Accelerated MRI* and *SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI* were published in **IEEE Transactions on Medical Imaging**.
+- **2026** — 🎉 *Guided MRI Reconstruction via Schrödinger Bridge* was published in **IEEE Transactions on Medical Imaging**.
+- **2025** — 🚀 Started my Ph.D. journey in **Computer Science at Hong Kong Baptist University**.
+- **2025** — 🎤 Our work on accelerated quantitative $T_1\rho$ mapping was presented as an **Oral at ISMRM 2025**.
+- **2024** — 🎓 Graduated from **Shenzhen University** with a B.Eng. in Biomedical Engineering.
+- **2024** — ✨ *High-Frequency Space Diffusion Models for Accelerated MRI* and *SPIRiT-Diffusion* were published in **IEEE Transactions on Medical Imaging**.
 
 You can find my CV here: [Curriculum Vitae](/files/CV.pdf).
 

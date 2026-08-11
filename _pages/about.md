@@ -13,6 +13,12 @@ My current research focuses on 3D reconstruction from 2D ultrasound sequences. I
 
 Previously, I worked on accelerated MRI reconstruction and diffusion-based medical image reconstruction at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. I received my B.Eng. degree in Biomedical Engineering from Shenzhen University.
 
+## News
+
+- **2026** — *Guided MRI Reconstruction via Schrödinger Bridge* was published in **IEEE Transactions on Medical Imaging**.
+- **2025** — Our work on accelerated quantitative $T_1\rho$ mapping was presented as an **Oral at ISMRM 2025**.
+- **2024** — *High-Frequency Space Diffusion Models for Accelerated MRI* and *SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI* were published in **IEEE Transactions on Medical Imaging**.
+
 You can find my CV here: [Curriculum Vitae](/files/CV.pdf).
 
-[Email](yue.wang0908@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=-pqgxXsAAAAJ&hl=zh-CN) / [GitHub]([your_github_link](https://github.com/YuebyYue))
+[Email](mailto:yue.wang0908@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=-pqgxXsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/YuebyYue)

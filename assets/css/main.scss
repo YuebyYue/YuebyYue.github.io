@@ -41,3 +41,56 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --------------------------------------------------------------------------
+   Yue's personal touch: lighter, calmer, and less template-like.
+   -------------------------------------------------------------------------- */
+
+.page__footer {
+  display: none;
+}
+
+.page__content {
+  line-height: 1.78;
+}
+
+.page__content p {
+  margin-bottom: 1.25em;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.archive__item-title {
+  font-weight: 500;
+  letter-spacing: -0.015em;
+}
+
+.page__content h2 {
+  margin-top: 1.8em;
+  margin-bottom: 0.75em;
+}
+
+.page__content a,
+.archive__item a,
+.author__urls a {
+  color: #4f6f5b;
+  text-decoration: none;
+}
+
+.page__content a:hover,
+.archive__item a:hover,
+.author__urls a:hover {
+  color: #2f4f3b;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.author__avatar img {
+  border: 1px solid rgba(70, 90, 75, 0.12);
+  box-shadow: none;
+}
+
+.page__content ul li {
+  margin-bottom: 0.45em;
+}

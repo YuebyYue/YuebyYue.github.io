@@ -42,19 +42,19 @@ redirect_from:
     <a class="home-section__link" href="/publications/">View all publications →</a>
   </div>
   <div class="home-publications">
-    <a class="home-publication" href="/publication/2026-guided-mri-schrodinger-bridge">
+    <a class="home-publication" href="https://ieeexplore.ieee.org/abstract/document/11658955" target="_blank" rel="noopener noreferrer">
       <h3>Guided MRI Reconstruction via Schrödinger Bridge</h3>
       <p class="home-publication__authors"><strong>Y. Wang*</strong>, Y. Yang*, Z. Cui*, T. Zhou, B. Huang, H. Zheng, D. Liang, Y. Zhu</p>
       <p class="home-publication__venue">IEEE Transactions on Medical Imaging, 2026</p>
       <span>View publication →</span>
     </a>
-    <a class="home-publication" href="/publication/2024-high-frequency-space-diffusion-models">
+    <a class="home-publication" href="https://ieeexplore.ieee.org/document/10385176" target="_blank" rel="noopener noreferrer">
       <h3>High-Frequency Space Diffusion Models for Accelerated MRI</h3>
       <p class="home-publication__authors">C. Cao*, Z. Cui*, <strong>Y. Wang*</strong>, S. Liu, T. Chen, D. Liang, Y. Zhu</p>
       <p class="home-publication__venue">IEEE Transactions on Medical Imaging, 2024</p>
       <span>View publication →</span>
     </a>
-    <a class="home-publication" href="/publication/2024-spirit-diffusion">
+    <a class="home-publication" href="https://ieeexplore.ieee.org/abstract/document/10704728" target="_blank" rel="noopener noreferrer">
       <h3>SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI</h3>
       <p class="home-publication__authors">Z. Cui*, C. Cao*, <strong>Y. Wang*</strong>, S. Jia, J. Cheng, H. Zheng, D. Liang, Y. Zhu</p>
       <p class="home-publication__venue">IEEE Transactions on Medical Imaging, 2024</p>

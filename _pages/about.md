@@ -27,10 +27,11 @@ redirect_from:
 <section class="home-section" id="these-days" aria-labelledby="these-days-title">
   <h2 class="home-section__title" id="these-days-title">These Days</h2>
   <div class="home-timeline">
-    <div class="home-timeline__item"><time>2026</time><span class="home-timeline__dot" aria-hidden="true"></span><p>🎉 <em>Guided MRI Reconstruction via Schrödinger Bridge</em> was published in <strong>IEEE Transactions on Medical Imaging</strong>.</p></div>
-    <div class="home-timeline__item"><time>2025</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Started my Ph.D. journey in <strong>Computer Science at Hong Kong Baptist University</strong>.</p></div>
-    <div class="home-timeline__item"><time>2025</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Presented our work on accelerated quantitative <em>T<sub>1</sub>ρ</em> mapping as an <strong>Oral at ISMRM 2025</strong>.</p></div>
-    <div class="home-timeline__item"><time>2024</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Graduated from <strong>Shenzhen University</strong> with a B.Eng. in Biomedical Engineering.</p></div>
+    <div class="home-timeline__item"><time>2026.09</time><span class="home-timeline__dot" aria-hidden="true"></span><p>🎉 Our paper <strong>UltraVoxelGS</strong> was accepted to <strong>NeurIPS 2026</strong>.</p></div>
+    <div class="home-timeline__item"><time>2026.08</time><span class="home-timeline__dot" aria-hidden="true"></span><p>🎉 <em>Guided MRI Reconstruction via Schrödinger Bridge</em> was published in <strong>IEEE Transactions on Medical Imaging</strong>.</p></div>
+    <div class="home-timeline__item"><time>2025.09</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Started my Ph.D. journey in <strong>Computer Science at Hong Kong Baptist University</strong>.</p></div>
+    <div class="home-timeline__item"><time>2025.05</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Presented our work on accelerated quantitative <em>T<sub>1</sub>ρ</em> mapping as an <strong>Oral at ISMRM 2025</strong>.</p></div>
+    <div class="home-timeline__item"><time>2024.07</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Graduated from <strong>Shenzhen University</strong> with a B.Eng. in Biomedical Engineering.</p></div>
     <div class="home-timeline__item"><time>2024–25</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Worked as a Research Assistant at the <strong>Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences</strong>.</p></div>
     <div class="home-timeline__item"><time>2023–24</time><span class="home-timeline__dot" aria-hidden="true"></span><p>Visited the <strong>Lauterbur Research Center for Biomedical Imaging</strong> as an undergraduate researcher.</p></div>
   </div>
